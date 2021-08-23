@@ -1,0 +1,2 @@
+src/gifs/gif6.gif filter=lfs diff=lfs merge=lfs -text
+src/gifs/gif7.gif filter=lfs diff=lfs merge=lfs -text
